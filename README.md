@@ -13,7 +13,7 @@ Motorised Focuser : Components list
 -	1 x Stepper Motor drive a4988
 -	1 x 7mmx7mm 6 Pin 42 SMD SMT Tactile Switch (Joystick like)
 -	4 x 4 pin Tactile Push Button switch DIP for Arduino DIP
--	1 x OLED Screen 0.91 » 128x32 IIC SSD1306
+-	1 x OLED Screen 0.91 » 128x32 IIC SSD1306 (Not displayed on the Schematic. Just connect it in a legacy way (VCC/GND/SDA/SCL) to the I2c pins on Arduino Uno).
 -	7 x 10nf capacitors
 -	7 x 10kOhms resistors
 -	1 x Prototype PCB for Arduino UNO R3 Shield Board DIY
