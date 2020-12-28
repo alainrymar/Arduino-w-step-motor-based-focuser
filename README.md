@@ -25,8 +25,8 @@ Check-out the Arduino Code for details.
 How it works ?
 
 Handle 4 Focuser speeds (Fast, Medium, Slow, Very Slow) = steps per 360° (400, 800, 1600, 3200)
-At boot, motor is not engaged, manual focus is possible.
-Joystick clic to engage motor (manual focus not possible)
-Use one of the buttons to change focus speed
-Joystick up or down to focus
+At boot, motor is not engaged, manual focus is possible,
+Joystick clic to engage motor (manual focus not possible),
+Use one of the buttons to change focus speed,
+Joystick up or down to focus,
 Joystick clic to disable motor (Manual focus available).
