@@ -5,7 +5,7 @@ Wanna add a motor to drive your telescope focuser ? Probably yes and due to the 
 You can find here details about my project.
 
 Based on Arduino UNO, a motor driver a4988 and a step motor.
-I added also a 3D STL file to attach the motor to a real telescope. This one is for a SkyWatcher Startravel 102, but it’s up to you to developp your own motor support for your telescope.
+I added also a 3D STL file to attach the motor to a real telescope. This one is for a SkyWatcher Startravel 102, but it’s up to you to developp your own motor support for your telescope. https://cults3d.com/en/3d-model/various/telescope-motorized-focuser
 
 
 Motorised Focuser : Components list
