@@ -19,6 +19,7 @@ Motorised Focuser : Components list
 -	1 x Prototype PCB for Arduino UNO R3 Shield Board DIY
 -	1 x KF2510-4 2.54mm Pin Header+Terminal+Housing Connector Kit
 -	1 x  Step Motor 42SHDC3025-24B
+- 1 x Step motor coupler (link the step motor to the focuser axis)
 
 
 Check-out the Arduino Code for details.
